@@ -11,9 +11,9 @@ Description of the data set randomly chosen based on given target function:
 * **In-set accuracy by maximum class classifier**: 57%
 * **In-set accuracy using SVM classifier**: 100%
 
-**Number of SVMs computed**: 14
-**Number of SVMs in –ve class**: 8
-**Number of SVMs in +ve class**: 6
+**Number of SVMs computed**: 14  
+**Number of SVMs in –ve class**: 8  
+**Number of SVMs in +ve class**: 6  
 
 **Kernel Used**: Radial Basis Function, gamma = 3
 
